@@ -11,5 +11,8 @@
 !translate_qa.js
 !gen_audio.js
 !collect_tts.js
+!favicon.svg
+!favicon-32.png
+!apple-touch-icon.png
 !audio/
 !audio/**
