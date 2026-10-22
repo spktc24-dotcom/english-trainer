@@ -1,0 +1,15 @@
+# публікуємо тільки тренажер
+*
+!.gitignore
+!README.md
+!index.html
+!server.js
+!qa-data.js
+!qa-uk.json
+!tts-texts.json
+!apply_qa.js
+!translate_qa.js
+!gen_audio.js
+!collect_tts.js
+!audio/
+!audio/**
